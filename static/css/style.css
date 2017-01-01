@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+body {
+  background: #151618 url('http://i.imgur.com/cIGSehG.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+p.shine {
+  font-size: 3em;
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+  color: #fff8b9;
+  text-shadow: 0 0 150px #FFF, 0 0 60px #FFF, 0 0 10px #FFF;
+  font-family: 'Aclonica', sans-serif;
+  font-family: 'Fontdiner Swanky', cursive;
+  -webkit-animation-duration: 10s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-duration: 10s;
+  -moz-animation-iteration-count: infinite;
+}
+
+.area {
+  text-align: center;
+  font-size: 6.5em;
+  color: #fff;
+  letter-spacing: -7px;
+  font-weight: 700;
+  -webkit-animation-duration: 10s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-duration: 10s;
+  -moz-animation-iteration-count: infinite;
+}
